@@ -1,0 +1,3 @@
+/home/kcs/marker/build/CMakeFiles/rebuild_cache.dir
+/home/kcs/marker/build/CMakeFiles/edit_cache.dir
+/home/kcs/marker/build/CMakeFiles/Marker_Generate.dir
