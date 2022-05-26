@@ -215,9 +215,6 @@ Marker_Generate_BINARY_DIR:STATIC=/home/kcs/marker/build
 //Value Computed by CMake
 Marker_Generate_SOURCE_DIR:STATIC=/home/kcs/marker
 
-//The directory containing a CMake configuration file for OpenCV4.
-OpenCV4_DIR:PATH=OpenCV4_DIR-NOTFOUND
-
 //The directory containing a CMake configuration file for OpenCV.
 OpenCV_DIR:PATH=/usr/local/lib/cmake/opencv4
 
